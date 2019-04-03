@@ -1,0 +1,16 @@
+Student 1 Name: Roberto J. Nares
+Student 1 Perm: 9727702
+Student 2 Name: Colin Mai
+Student 2 Perm: 9448010
+
+
+WHAT WE DID:
+
+We created some data structures, which we will cover in our demo.
+
+
+PROBLEMS:
+
+Mostly just logical errors. At first we struggled a lot to get the tests to run.
+We pretty much just transferred all of our 'fs.h' code into our 'fs.cpp' and
+changed all 'gcc' lines to 'g++'.
